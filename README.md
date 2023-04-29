@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/8qK310p.png" alt="Project logo"></a>
+ <img src="https://imgur.com/h8ytSsI.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">ceZarInvest | Calculateur</h3>
@@ -8,6 +8,8 @@
 <div align="center">
 
 Application basique de calculateur d'intérêts composés permettant aux utilisateurs de calculer le montant de leur épargne future en fonction du taux d'intérêt, de la durée de l'investissement, du montant investi par mois et du capital de départ. 
+  
+  🦠**VirusTotal**🦠 : https://www.virustotal.com/gui/file/15885871d8e78d14c95914717d0ea9e7aeffbcee3ccaaa5b878f4620696d83e9?nocache=1
 
 L'application utilise une interface graphique conviviale basique et est développée à l'aide de la bibliothèque BeeWare et Toga. Cette application est destinée aux personnes intéressées par les investissements et l'épargne, et peut être utilisée par des particuliers ainsi que par des professionnels, basé sur la formule mathématique :
 ```
